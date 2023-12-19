@@ -162,7 +162,9 @@ user-select: none;
 .lightBlue{
     color: #27d1d1;
 }
-
+.was-nav-link{
+    color: #5a5a5a;
+}
 .was-nav-link:hover{
     color: #27d1d1;
 }
