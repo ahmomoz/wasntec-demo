@@ -28,7 +28,7 @@ z-index: 10;
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-height: 48rem;
+height: 32rem;
 }
 .carousel-item > img {
 position: absolute;
@@ -116,12 +116,12 @@ user-select: none;
 }
 /* -------------------------------------------------- */  
 .banner-h1 {
-    font-size: 4rem;
+    font-size: 2.5rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .banner-p {
     margin-top: 0.5rem; 
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     letter-spacing: 0.3rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
@@ -142,9 +142,7 @@ user-select: none;
         text-orientation: upright; /* 设置文字方向为直立 */
     }
 }
-@media (max-width: 768px) {
 
-}
 /* -------------------------------------------------- */  
 
 .about-bg {
